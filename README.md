@@ -2,4 +2,4 @@
 
 Мем: 
 
-![Мем 1](meme/xaxa.mp4)
+![Мем 1](meme/meme.gif)
